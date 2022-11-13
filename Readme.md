@@ -25,7 +25,7 @@
 
 > ## Presentation
 > 
-> Include the library `List.h and create your variable and for finish call the init function `L_Init`:
+> Include the library `List.h`and create your variable and for finish call the init function `L_Init`:
 > ```c
 > #include "List.h"
 >
